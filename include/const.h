@@ -1,5 +1,5 @@
-#ifndef IFEM__CONST_H
-#define IFEM__CONST_H
+#ifndef ROSE__CONST_H
+#define ROSE__CONST_H
 
 #define PRIVATE		static
 #define PUBLIC
@@ -19,4 +19,4 @@
 #define FREQ	60	/* timer frequency */
 #define TICKS2CALL	200	
 
-#endif /* IFEM__CONST_H */
+#endif /* ROSE__CONST_H */
