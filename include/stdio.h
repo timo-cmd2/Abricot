@@ -3,7 +3,7 @@
 
 #define BUFSIZ  1024
 #define NFILES  20
-#define NULL       0
+#define NULL    0
 #define EOF     (-1)
 #define CMASK   0377
 
