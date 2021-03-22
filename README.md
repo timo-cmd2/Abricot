@@ -1,7 +1,5 @@
 # Abricot
 
-![](https://tokei.rs/b1/github/timo-cmd2/Abricot)
-
 A small operating-system kernel I work on in my freetime
 
 ## Build instructions
